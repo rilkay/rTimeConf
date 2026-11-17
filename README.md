@@ -1,3 +1,3 @@
 # rTimeConf 
-## Licence 
-MIT — see [LICENCE](LICENCE)
+## License 
+MIT — see [LICENSE](LICENSE)
