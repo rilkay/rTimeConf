@@ -1,0 +1,20 @@
+# https://docs.advntr.dev/minimessage/format.html
+
+prefix: "<#d187ff>Ⓣ "
+
+messages:
+  no-permission: "{prefix}<#d187ff>You don't have permission to use this command!"
+  only-players: "{prefix}<#d187ff>This command can only be used in-game!"
+  invalid-args-time: "{prefix}<#d187ff>Usage: /ptime <day|night|reset|number>"
+  invalid-args-weather: "{prefix}<#d187ff>Usage: /pweather <sun|rain|reset>"
+  invalid-args-admin: "{prefix}<#d187ff>Usage: /pt <reload|world>"
+  
+  time-changed: "{prefix}<#d187ff>Your personal time has been set to: <white>{value}"
+  time-reset: "{prefix}<#d187ff>Your time has been synchronized with the server."
+  
+  weather-changed: "{prefix}<#d187ff>Your personal weather has been changed to: <white>{value}"
+  weather-reset: "{prefix}<#d187ff>Your weather has been synchronized with the server."
+  
+  reload-success: "{prefix}<#d187ff>Config reloaded successfully!"
+  world-enabled: "{prefix}<#d187ff>You now see the real time of the world."
+  
