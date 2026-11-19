@@ -1,0 +1,14 @@
+name: rTimeConf
+version: 1.0
+main: ru.rilkay.rtimeconf.rTimeConf
+api-version: '1.21'
+commands:
+  ptime:
+    description: "Set personal time"
+    permission: rtimeconf.use
+  pweather:
+    description: "Set personal weather"
+    permission: rtimeconf.use
+  pt:
+    description: "Manage the rTimeConf plugin"
+    permission: rtimeconf.admin
