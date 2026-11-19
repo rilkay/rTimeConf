@@ -59,5 +59,8 @@ messages:
 ````
 </details>
 
+## Modrinth link:
+https://modrinth.com/plugin/rtimeconf
+
 ## License 
 MIT — see [LICENSE](LICENSE)
